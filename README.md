@@ -1,2 +1,1 @@
-# hello-world
-Creating a repository following the GitHub guide.
+Updated to exercise commit command.
